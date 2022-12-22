@@ -1,0 +1,12 @@
+# git files
+.git
+.gitattributes
+.gitignore
+.cache
+
+# markdown files
+*.md
+
+# docker files
+docker-compose.yml
+Dockerfile
